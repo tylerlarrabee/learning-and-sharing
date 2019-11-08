@@ -1,4 +1,4 @@
-# learning-and-sharing
+# Learning & Sharing
 
 
 When adding a new script(s) follow:
